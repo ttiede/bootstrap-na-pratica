@@ -1,3 +1,9 @@
 .navbar-header button {
-  color: #fff
+    color: #fff
+}
+.fullscreen {
+    width:100%;
+}
+main {
+    padding-top:50px;
 }
